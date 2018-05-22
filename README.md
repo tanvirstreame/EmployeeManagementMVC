@@ -1,1 +1,1 @@
-EmployeeManagementMVC project for students who wanted to learn mvc
+EmployeeManagementMVC project for students who want to learn mvc
